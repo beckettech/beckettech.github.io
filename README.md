@@ -1,2 +1,2 @@
 # beckettech.github.io
-Beckett Hoefling
+Beckett's Projects
