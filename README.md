@@ -1,2 +1,4 @@
-# beckettech.github.io
-Beckett's Projects
+# Beckett's Projects
+
+Link:
+[beckettech.github.io](https://beckettech.github.io)
